@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "36b8d290495f383f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-20 00.21.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-20 00.21.45.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0276f486db20151d",
+  "active": "36b8d290495f383f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-20 00.21.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-20 00.21.45.excalidraw.md",
+    "Excalidraw",
     "Test.md",
     "Untitled 1.canvas",
     "2025-10-20.md",
